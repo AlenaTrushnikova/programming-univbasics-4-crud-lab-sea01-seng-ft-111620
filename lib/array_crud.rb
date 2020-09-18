@@ -33,7 +33,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  
+  t_family = ["wow", "Nika", "Eugene", "Alena"]
+  t_family[0]
 end
 
 def retrieve_last_element_from_array(array)
