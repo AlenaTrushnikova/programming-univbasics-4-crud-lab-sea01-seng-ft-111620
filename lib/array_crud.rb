@@ -43,6 +43,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  t_family = ["Zoe", "Nika", "Eugene", "arrays!"]
-  t_family[-1]
+  t_family = ["Zoe", "Nika", "Eugene", "Alena"]
+  t_family[4] = "totally"
 end
